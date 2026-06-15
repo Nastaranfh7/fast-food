@@ -1,16 +1,95 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# 🍔 Fast Food — React + Vite  
+A modern and responsive fast‑food menu application built with **React**, **Vite**, **TailwindCSS**, and **React Router**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features  
+- Fully responsive UI  
+- Modern design with TailwindCSS  
+- Product list page  
+- Product detail page  
+- Custom 404 page  
+- Clean and organized folder structure  
+- Fast development environment using Vite  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📂 Project Structure  
+```
+src/
+  components/
+  pages/
+    Home.jsx
+    ProductDetail.jsx
+    NotFound.jsx
+  data/
+  images/
+  App.jsx
+  main.jsx
+  index.css
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Getting Started  
+
+### 1. Install dependencies  
+```bash
+npm install
+```
+
+### 2. Run the development server  
+```bash
+npm run dev
+```
+
+### 3. Build for production  
+```bash
+npm run build
+```
+
+### 4. Deploy (if using GitHub Pages)  
+```bash
+npm run deploy
+```
+
+---
+
+## 🛠️ Technologies Used  
+- **React**  
+- **Vite**  
+- **TailwindCSS**  
+- **React Router**  
+- **JavaScript (ES6+)**
+
+---
+
+## 🖼️ Pages  
+- **Home Page** — Displays the list of food items  
+- **Product Detail Page** — Shows detailed information for each item  
+- **404 Not Found Page** — Custom error page with a “Go Home” button  
+
+
+---
+
+## 👩🏻‍💻 Developer  
+**Nastaran (Nas)**  
+GitHub: `https://github.com/Nastaranfh7` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FNastaranfh7")
+
+---
+
+## 📄 License  
+This project is open-source and available for personal or educational use.
+
+---
+
+If you want, I can also create:
+
+- **A more advanced README with badges**  
+- **A portfolio‑style README for job applications**  
+- **A banner/header image for the top of your README**  
+
+Just tell me which one you want next.
