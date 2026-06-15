@@ -77,7 +77,7 @@ npm run deploy
 
 ## 👩🏻‍💻 Developer  
 **Nastaran (Nas)**  
-GitHub: `https://github.com/Nastaranfh7` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FNastaranfh7")
+GitHub: `https://github.com/Nastaranfh7` 
 
 ---
 
