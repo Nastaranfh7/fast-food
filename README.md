@@ -1,5 +1,5 @@
 
----
+
 
 # 🍔 Fast Food — React + Vite  
 A modern and responsive fast‑food menu application built with **React**, **Vite**, **TailwindCSS**, and **React Router**.
@@ -84,12 +84,4 @@ GitHub: `https://github.com/Nastaranfh7`
 ## 📄 License  
 This project is open-source and available for personal or educational use.
 
----
 
-If you want, I can also create:
-
-- **A more advanced README with badges**  
-- **A portfolio‑style README for job applications**  
-- **A banner/header image for the top of your README**  
-
-Just tell me which one you want next.
